@@ -64,21 +64,21 @@ Briefly describe the project, its objectives, and scope.
   - [data_load.py](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/python/load.py)
   
 - **SQLs Scripts:**
-- [query1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query1.sql)
-- [query2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query2.sql)
-- [query3.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query3.sql)
-- [view1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view1.sql)
-- [view2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view2.sql)
+  - [query1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query1.sql)
+  - [query2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query2.sql)
+  - [query3.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query3.sql)
+  - [view1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view1.sql)
+  - [view2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view2.sql)
 
 - **PowerQuery Scripts:**
-- [powerQuery1.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery1.pq)
-- [powerQuery2.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery2.pq)
-- [powerQuery3.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery3.pq)
-- [powerQuery4.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery4.pq)
-- [_last_refrash.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/_last_refresh_.pq)
-- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
-- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
-- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
+  - [powerQuery1.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery1.pq)
+  - [powerQuery2.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery2.pq)
+  - [powerQuery3.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery3.pq)
+  - [powerQuery4.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery4.pq)
+  - [_last_refrash.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/_last_refresh_.pq)
+  - [dfd.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
+  - [ssss.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
+  - [ffff.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
 
 
 ## Data Processing and Analysis
