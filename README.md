@@ -51,14 +51,14 @@ Briefly describe the project, its objectives, and scope.
 ## Visualizations
 
 - **Dashboard:**
-  - Descriptive [Power BI Dashboard](link)
+  - Descriptive (Required) [Power BI Dashboard](link)
   - Exploratiry (Plus) [Tableau](link)
   - Storytelling (Plus) [Flourish](link)
 
 ## Documentation
 
 - **Methodology:**
-  - [ ] Document data processing methodology
+  - [x] Document data processing methodology
   - [ ] Document modeling approach
 
 - **Findings:**
