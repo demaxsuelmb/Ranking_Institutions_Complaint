@@ -16,6 +16,8 @@
 
 Briefly describe the project, its objectives, and scope.
 
+[Notion explanation](https://www.notion.so/TURNKEY_CHALLENGE-6db9e04b195d4545a737abedbe4d5c1e?pvs=4)
+
 ## Data Sources
 
 - **Database:**
@@ -26,6 +28,8 @@ Briefly describe the project, its objectives, and scope.
 ## Tasks and Milestones
 
 - **To-Do List:**
+  - [ ] Understanding the challenge
+  - [ ] Create a enviroment
   - [ ] Data Collection
   - [ ] Data Cleaning
   - [ ] Exploratory Data Analysis (EDA)
@@ -47,7 +51,9 @@ Briefly describe the project, its objectives, and scope.
 ## Visualizations
 
 - **Dashboard:**
-  - [Power BI Dashboard](link)
+  - Descriptive [Power BI Dashboard](link)
+  - Exploratiry (Plus) [Tableau](link)
+  - Storytelling (Plus) [Flourish](link)
 
 ## Documentation
 
@@ -67,4 +73,4 @@ Briefly describe the project, its objectives, and scope.
 
 ## GitHub Repository
 
-[Link to GitHub Repository](https://github.com/yourusername/your-repo)
+[Link to GitHub Repository](https://github.com/demaxsuelmb/turnkey_challenge?tab=readme-ov-file#visualizations)
