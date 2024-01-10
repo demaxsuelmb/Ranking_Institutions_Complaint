@@ -21,14 +21,21 @@ Briefly describe the project, its objectives, and scope.
 ## Tools to this project
 
 - **Tools:**
-  - Notion [Documentation](link)
-  - External API [Documentation](link)
-  - CSV Files [Data Files](link)
+  - Notion [Documentation](https://www.notion.so/help/guides/what-is-notion)
+  - Miro [Documentation](https://miro.com/about/)
+  - dBeaver [Documentation](https://dbeaver.io/about/)
+  - VS Code [Documentation](https://code.visualstudio.com/docs)
+  - Jupyter Notebook [Documentation](https://docs.jupyter.org/en/latest/)
+  - Power BI [Documentation](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overvi)
+  - Tableau [Documentation](https://www.tableau.com/products/public)
+  - Flousrish [Documentation](https://flourish.studio/)
+  - ChatGPT [Documentation](https://openai.com/blog/chatgpt)
+
 
 ## Data Sources
 
 - **Database:**
-  - SQL Server [Documentation](link)
+  - PostgreSQL  [Documentation](https://www.postgresql.org/about/)
   - External API [Documentation](link)
   - CSV Files [Data Files](link)
 
@@ -64,12 +71,14 @@ Briefly describe the project, its objectives, and scope.
 - [view2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view2.sql)
 
 - **PowerQuery Scripts:**
-- [query1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query1.sql)
-- [query2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query2.sql)
-- [query3.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query3.sql)
-- [view1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view1.sql)
-- [view2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view2.sql)
-
+- [powerQuery1.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery1.pq)
+- [powerQuery2.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery2.pq)
+- [powerQuery3.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery3.pq)
+- [powerQuery4.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery4.pq)
+- [_last_refrash.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/_last_refresh_.pq)
+- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
+- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
+- [.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
 
 
 ## Data Processing and Analysis
@@ -81,7 +90,7 @@ Briefly describe the project, its objectives, and scope.
 ## Visualizations
 
 - **Dashboard:**
-  - Descriptive (Required) [Power BI Dashboard](link)
+  - Descriptive (Required) [Power BI](link)
   - Exploratiry (Plus) [Tableau](link)
   - Storytelling (Plus) [Flourish](link)
 
