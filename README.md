@@ -1,6 +1,9 @@
 #  Ranking of Institutions by Complaint Index
  Ranking of Institutions by Complaint Index
 
+TO DOWNLOAD OF CSV, USE:
+https://www3.bcb.gov.br/rdrweb/rest/ext/ranking/arquivo?ano=2017&periodicidade=TRIMESTRAL&periodo=1&tipo=Bancos+e+financeiras
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
