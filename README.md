@@ -26,6 +26,7 @@ Briefly describe the project, its objectives, and scope.
   - dBeaver [Documentation](https://dbeaver.io/about/)
   - VS Code [Documentation](https://code.visualstudio.com/docs)
   - Jupyter Notebook [Documentation](https://docs.jupyter.org/en/latest/)
+  - Excel [Documentation](https://support.microsoft.com/en-us/excel)
   - Power BI [Documentation](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overvi)
   - Tableau [Documentation](https://www.tableau.com/products/public)
   - Flousrish [Documentation](https://flourish.studio/)
@@ -38,6 +39,7 @@ Briefly describe the project, its objectives, and scope.
   - PostgreSQL  [Documentation](https://www.postgresql.org/about/)
   - External API [Documentation](link)
   - CSV Files [Data Files](link)
+
 
 ## Tasks and Milestones
 
@@ -56,14 +58,15 @@ Briefly describe the project, its objectives, and scope.
   - [ ] Finalize Model by [Date]
   - [ ] Publish Final Report by [Date]
 
+
 ## Data ETL
 
 - **Python Scripts:**
-  - [data_extact.py](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/python/extract.py)
+  - [data_extract.py](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/python/extract.py)
   - [data_transform.py](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/python/transform.py)
   - [data_load.py](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/python/load.py)
   
-- **SQLs Scripts:**
+- **SQL Scripts:**
   - [query1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query1.sql)
   - [query2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query2.sql)
   - [query3.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/query3.sql)
@@ -87,6 +90,7 @@ Briefly describe the project, its objectives, and scope.
   - [data_cleaning.ipynb](link)
   - [modeling.ipynb](link)
 
+
 ## Visualizations
 
 - **Dashboard:**
@@ -104,11 +108,6 @@ Briefly describe the project, its objectives, and scope.
   - [ ] Key insights from EDA
   - [ ] Model performance metrics
 
-## Meeting Notes
-
-- **Weekly Meetings:**
-  - [ ] [Date]: Discuss progress and challenges
-  - [ ] [Date]: Review EDA findings
 
 ## GitHub Repository
 
